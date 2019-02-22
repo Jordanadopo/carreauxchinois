@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50a8ecd7-c9aa-47cf-9603-f3932b50c198" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tictactoe.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="50a8ecd7-c9aa-47cf-9603-f3932b50c198" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,30 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="1" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1952,13 +1973,20 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -1989,7 +2017,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="carreauxchinois" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2087,7 +2125,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.3295302" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3295302" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
       <window_info id="Image Layers" />
@@ -2099,7 +2137,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.32885906" />
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
@@ -2111,6 +2149,15 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
