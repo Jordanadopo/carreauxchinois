@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tic Tac Toe</string>
+    <string name="app_name">Carreaux chinois</string>
     <string name="next_player">次のプレイヤー: %1$s</string>
     <string name="next_player_x">次のプレイヤー: X</string>
     <string name="game_draw">ドロー</string>
@@ -8,4 +8,5 @@
     <string name="game_over">ゲームは終わりだ</string>
     <string name="winner">勝者: %1$s</string>
     <string name="about">約</string>
+    <string name="about_content">Carreaux chinois v1.0.0 \nDéveloppé par Jordan Adopo\n\nContacts\nTéléphone: +225 48045822\nWhatsApp: +225 48045822\nEmail: jordan.adopo@gmail.com</string>
 </resources>

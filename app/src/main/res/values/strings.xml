@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tic Tac Toe</string>
+    <string name="app_name">Carreaux chinois</string>
     <string name="next_player">Next Player: %1$s</string>
     <string name="next_player_x">Next Player: X</string>
     <string name="game_draw">Draw</string>
@@ -7,5 +7,5 @@
     <string name="game_over">Game is Over</string>
     <string name="winner">Winner: %1$s</string>
     <string name="about">About</string>
-    <string name="about_content">Tic Tac Toe v1.1.0\nThis game is open source project\n\nWeb: http://ipanardian.com\nGithub: https://github.com/ipanardian/tictactoe</string>
+    <string name="about_content">Carreaux chinois v1.0.0 \nDéveloppé par Jordan Adopo\n\nContacts\nTéléphone: +225 48045822\nWhatsApp: +225 48045822\nEmail: jordan.adopo@gmail.com</string>
 </resources>
